@@ -1,0 +1,1588 @@
+body{
+background:gray;
+}
+	#wrapper{
+	
+	
+	height:1430px;
+	width:1200px;
+	background:#F2F2F3;
+	margin:0 auto;
+	}
+	#footer{
+	font-size:20px;
+	color:#242424;
+	text-align:center;
+	width:100%;
+	height:60px;
+	
+	}
+	#header{
+	
+	margin:0;
+	height:104px;
+	width:100%;
+	background:#2F2F2F;
+	}
+	#area img{
+	padding-top:30px;
+	float:right;
+	}
+	#header h2{
+	
+
+	font-style:italic;
+	color:#E6CE49;
+	padding-left:50px;
+	}
+	#left{
+	
+	float:left;
+	}
+	#menu{
+	padding-bottom:30px;
+	padding-right:130px;
+	float:right;
+	}
+	#menu ul li{
+	float:left;
+	list-style-type:none;
+	}
+	#area h3{
+	
+	
+	
+	height:140px;
+	width:320px;
+	text-align:justify;
+	font-size:12px;
+	padding-top:80px;
+	
+	
+	}
+	#clear{
+	
+	width:100%;
+	clear:both;
+	}
+	#menu ul li a{
+	padding:10px 20px 20px 10px;
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#area h1{
+	margin-top:60px;
+	text-align:center;
+	}
+	#area h1 a{
+	text-decoration:none;
+	color:#ffffff;
+	
+	}
+	
+	#area p{
+	
+	float:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	}
+	#area h1{
+	
+	font-size:16px;
+	color:#ffffff;
+	background:#FB9744;
+	height:25px;
+	width:100px;
+	
+	}
+	#plot a{
+	
+	text-decoration:none;
+	color:#ffffff;}
+	#plot{
+	
+	margin:20px;
+	float:left;
+	}
+	#plot h3{
+	height:30px;
+	width:130px;
+	padding-top:10px;
+	color:#ffffff;
+	font-size:20px;
+	background:#FB9744;
+	}
+	#plot p{
+	
+	
+	height:20px;
+	width:250px;
+	text-align:justify;
+	}
+	#simon h2{
+	
+	font-size:20px;
+	}
+	#area-2{
+	
+	height:513px;
+	width:100%;
+	background:#D6D6D6;
+	}
+	#simon img{
+	
+	margin:10px;
+	}
+	#shaon h4{
+	padding-left:10px;
+	font-size:14px;
+	color:#ffffff;
+	}
+	#images{
+	
+	
+	float:left;
+	}
+	#generation{
+	
+	float:left;
+	}
+	#fb h4{
+	
+	float:left;
+	font-size:16px;
+	color:#ffffff;
+	
+	}
+	#fb h2 a{
+	
+	text-decoration:none;
+	font-size:15px;
+	color:#ffffff;
+	}
+	
+	#float h2{
+	
+	float:right;
+	}
+	#fb h3 a{
+	
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#float{
+	
+	float:left;
+	}
+	#fb img{
+	float:left;
+	
+	}
+	#fb h1{
+	
+	font-size:18px;
+	color:#ffffff;
+	}
+	#fb{
+	margin-top:40px;
+	margin-right:220px;
+	width:110px;
+	height:230px;
+	
+	float:right;
+	
+	
+	}
+	#images h4{
+	
+	float:left;
+	}
+	#about{
+	
+	height:183px;
+	width:345px;
+	
+	float:left;
+	margin-top:30px;
+	
+	}
+	#about p{
+	text-align:justify;
+	color:#ffffff;
+	}
+	#about h1{
+	color:#ffffff;
+	}
+	#shaon img{
+	
+	float:left;
+	}
+	#shaon h1{
+	
+	color:#ffffff;
+	}
+	#shaon{
+	
+	float:left;
+	height:265px;
+	width:290px;
+	background:#242424;
+	margin-top:20px;
+	margin-left:30px;
+	
+	}
+	#content{
+	
+	
+	margin:0;
+	height:360px;
+	width:100%;
+	
+	}
+	#area-3{
+	
+	
+	background:#242424;
+	width:100%;
+	height:347px;
+	}
+	#simon{width:922px;
+	height:490px;
+	
+	float:left;
+	margin-left:145px;}
+			#area{
+			
+			
+			height:280px;
+			width:910px;
+			margin-top:60px;
+			margin-left:145px;
+			
+			}
+			@media only screen and(min-width:767px) and(max-width:960px){
+			#wrapper{
+	
+	
+	height:1430px;
+	width:760px;
+	background:#F2F2F3;
+	margin:0 auto;
+	}
+	#footer{
+	font-size:20px;
+	color:#242424;
+	text-align:center;
+	width:100%;
+	height:60px;
+	
+	}
+	#header{
+	
+	margin:0;
+	height:104px;
+	width:100%;
+	background:#2F2F2F;
+	}
+	#area img{
+	padding-top:30px;
+	float:right;
+	}
+	#header h2{
+	
+
+	font-style:italic;
+	color:#E6CE49;
+	padding-left:50px;
+	}
+	#left{
+	
+	float:left;
+	}
+	#menu{
+	padding-bottom:30px;
+	padding-right:130px;
+	float:right;
+	}
+	#menu ul li{
+	float:left;
+	list-style-type:none;
+	}
+	#area h3{
+	
+	
+	
+	height:140px;
+	width:320px;
+	text-align:justify;
+	font-size:12px;
+	padding-top:80px;
+	
+	
+	}
+	#clear{
+	
+	width:100%;
+	clear:both;
+	}
+	#menu ul li a{
+	padding:10px 20px 20px 10px;
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#area h1{
+	margin-top:60px;
+	text-align:center;
+	}
+	#area h1 a{
+	text-decoration:none;
+	color:#ffffff;
+	
+	}
+	
+	#area p{
+	
+	float:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	}
+	#area h1{
+	
+	font-size:16px;
+	color:#ffffff;
+	background:#FB9744;
+	height:25px;
+	width:100px;
+	
+	}
+	#plot a{
+	
+	text-decoration:none;
+	color:#ffffff;}
+	#plot{
+	
+	margin:20px;
+	float:left;
+	}
+	#plot h3{
+	height:30px;
+	width:130px;
+	padding-top:10px;
+	color:#ffffff;
+	font-size:20px;
+	background:#FB9744;
+	}
+	#plot p{
+	
+	
+	height:20px;
+	width:250px;
+	text-align:justify;
+	}
+	#simon h2{
+	
+	font-size:20px;
+	}
+	#area-2{
+	
+	height:513px;
+	width:100%;
+	background:#D6D6D6;
+	}
+	#simon img{
+	
+	margin:10px;
+	}
+	#shaon h4{
+	padding-left:10px;
+	font-size:14px;
+	color:#ffffff;
+	}
+	#images{
+	
+	
+	float:left;
+	}
+	#generation{
+	
+	float:left;
+	}
+	#fb h4{
+	
+	float:left;
+	font-size:16px;
+	color:#ffffff;
+	
+	}
+	#fb h2 a{
+	
+	text-decoration:none;
+	font-size:15px;
+	color:#ffffff;
+	}
+	
+	#float h2{
+	
+	float:right;
+	}
+	#fb h3 a{
+	
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#float{
+	
+	float:left;
+	}
+	#fb img{
+	float:left;
+	
+	}
+	#fb h1{
+	
+	font-size:18px;
+	color:#ffffff;
+	}
+	#fb{
+	margin-top:40px;
+	margin-right:220px;
+	width:110px;
+	height:230px;
+	
+	float:right;
+	
+	
+	}
+	#images h4{
+	
+	float:left;
+	}
+	#about{
+	
+	height:183px;
+	width:345px;
+	
+	float:left;
+	margin-top:30px;
+	
+	}
+	#about p{
+	text-align:justify;
+	color:#ffffff;
+	}
+	#about h1{
+	color:#ffffff;
+	}
+	#shaon img{
+	
+	float:left;
+	}
+	#shaon h1{
+	
+	color:#ffffff;
+	}
+	#shaon{
+	
+	float:left;
+	height:265px;
+	width:290px;
+	background:#242424;
+	margin-top:20px;
+	margin-left:30px;
+	
+	}
+	#content{
+	
+	
+	margin:0;
+	height:360px;
+	width:100%;
+	
+	}
+	#area-3{
+	
+	
+	background:#242424;
+	width:100%;
+	height:347px;
+	}
+	#simon{width:922px;
+	height:490px;
+	
+	float:left;
+	margin-left:145px;}
+			#area{
+			
+			
+			height:280px;
+			width:910px;
+			margin-top:60px;
+			margin-left:145px;
+			
+			}
+			
+			
+			
+			
+			}
+			@media only screen and(min-width:480px) and(max-width:767px){
+			#wrapper{
+	
+	
+	height:1430px;
+	width:470px;
+	background:#F2F2F3;
+	margin:0 auto;
+	}
+	#footer{
+	font-size:20px;
+	color:#242424;
+	text-align:center;
+	width:100%;
+	height:60px;
+	
+	}
+	#header{
+	
+	margin:0;
+	height:104px;
+	width:100%;
+	background:#2F2F2F;
+	}
+	#area img{
+	padding-top:30px;
+	float:right;
+	}
+	#header h2{
+	
+
+	font-style:italic;
+	color:#E6CE49;
+	padding-left:50px;
+	}
+	#left{
+	
+	float:left;
+	}
+	#menu{
+	padding-bottom:30px;
+	padding-right:130px;
+	float:right;
+	}
+	#menu ul li{
+	float:left;
+	list-style-type:none;
+	}
+	#area h3{
+	
+	
+	
+	height:140px;
+	width:320px;
+	text-align:justify;
+	font-size:12px;
+	padding-top:80px;
+	
+	
+	}
+	#clear{
+	
+	width:100%;
+	clear:both;
+	}
+	#menu ul li a{
+	padding:10px 20px 20px 10px;
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#area h1{
+	margin-top:60px;
+	text-align:center;
+	}
+	#area h1 a{
+	text-decoration:none;
+	color:#ffffff;
+	
+	}
+	
+	#area p{
+	
+	float:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	}
+	#area h1{
+	
+	font-size:16px;
+	color:#ffffff;
+	background:#FB9744;
+	height:25px;
+	width:100px;
+	
+	}
+	#plot a{
+	
+	text-decoration:none;
+	color:#ffffff;}
+	#plot{
+	
+	margin:20px;
+	float:left;
+	}
+	#plot h3{
+	height:30px;
+	width:130px;
+	padding-top:10px;
+	color:#ffffff;
+	font-size:20px;
+	background:#FB9744;
+	}
+	#plot p{
+	
+	
+	height:20px;
+	width:250px;
+	text-align:justify;
+	}
+	#simon h2{
+	
+	font-size:20px;
+	}
+	#area-2{
+	
+	height:513px;
+	width:100%;
+	background:#D6D6D6;
+	}
+	#simon img{
+	
+	margin:10px;
+	}
+	#shaon h4{
+	padding-left:10px;
+	font-size:14px;
+	color:#ffffff;
+	}
+	#images{
+	
+	
+	float:left;
+	}
+	#generation{
+	
+	float:left;
+	}
+	#fb h4{
+	
+	float:left;
+	font-size:16px;
+	color:#ffffff;
+	
+	}
+	#fb h2 a{
+	
+	text-decoration:none;
+	font-size:15px;
+	color:#ffffff;
+	}
+	
+	#float h2{
+	
+	float:right;
+	}
+	#fb h3 a{
+	
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#float{
+	
+	float:left;
+	}
+	#fb img{
+	float:left;
+	
+	}
+	#fb h1{
+	
+	font-size:18px;
+	color:#ffffff;
+	}
+	#fb{
+	margin-top:40px;
+	margin-right:220px;
+	width:110px;
+	height:230px;
+	
+	float:right;
+	
+	
+	}
+	#images h4{
+	
+	float:left;
+	}
+	#about{
+	
+	height:183px;
+	width:345px;
+	
+	float:left;
+	margin-top:30px;
+	
+	}
+	#about p{
+	text-align:justify;
+	color:#ffffff;
+	}
+	#about h1{
+	color:#ffffff;
+	}
+	#shaon img{
+	
+	float:left;
+	}
+	#shaon h1{
+	
+	color:#ffffff;
+	}
+	#shaon{
+	
+	float:left;
+	height:265px;
+	width:290px;
+	background:#242424;
+	margin-top:20px;
+	margin-left:30px;
+	
+	}
+	#content{
+	
+	
+	margin:0;
+	height:360px;
+	width:100%;
+	
+	}
+	#area-3{
+	
+	
+	background:#242424;
+	width:100%;
+	height:347px;
+	}
+	#simon{width:922px;
+	height:490px;
+	
+	float:left;
+	margin-left:145px;}
+			#area{
+			
+			
+			height:280px;
+			width:910px;
+			margin-top:60px;
+			margin-left:145px;
+			
+			}
+			
+			
+			
+			
+			}
+			@media only screen and(min-width:240px) and(max-width:320px){
+			#wrapper{
+	
+	
+	height:1430px;
+	width:230px;
+	background:#F2F2F3;
+	margin:0 auto;
+	}
+	#footer{
+	font-size:20px;
+	color:#242424;
+	text-align:center;
+	width:100%;
+	height:60px;
+	
+	}
+	#header{
+	
+	margin:0;
+	height:104px;
+	width:100%;
+	background:#2F2F2F;
+	}
+	#area img{
+	padding-top:30px;
+	float:right;
+	}
+	#header h2{
+	
+
+	font-style:italic;
+	color:#E6CE49;
+	padding-left:50px;
+	}
+	#left{
+	
+	float:left;
+	}
+	#menu{
+	padding-bottom:30px;
+	padding-right:130px;
+	float:right;
+	}
+	#menu ul li{
+	float:left;
+	list-style-type:none;
+	}
+	#area h3{
+	
+	
+	
+	height:140px;
+	width:320px;
+	text-align:justify;
+	font-size:12px;
+	padding-top:80px;
+	
+	
+	}
+	#clear{
+	
+	width:100%;
+	clear:both;
+	}
+	#menu ul li a{
+	padding:10px 20px 20px 10px;
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#area h1{
+	margin-top:60px;
+	text-align:center;
+	}
+	#area h1 a{
+	text-decoration:none;
+	color:#ffffff;
+	
+	}
+	
+	#area p{
+	
+	float:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	}
+	#area h1{
+	
+	font-size:16px;
+	color:#ffffff;
+	background:#FB9744;
+	height:25px;
+	width:100px;
+	
+	}
+	#plot a{
+	
+	text-decoration:none;
+	color:#ffffff;}
+	#plot{
+	
+	margin:20px;
+	float:left;
+	}
+	#plot h3{
+	height:30px;
+	width:130px;
+	padding-top:10px;
+	color:#ffffff;
+	font-size:20px;
+	background:#FB9744;
+	}
+	#plot p{
+	
+	
+	height:20px;
+	width:250px;
+	text-align:justify;
+	}
+	#simon h2{
+	
+	font-size:20px;
+	}
+	#area-2{
+	
+	height:513px;
+	width:100%;
+	background:#D6D6D6;
+	}
+	#simon img{
+	
+	margin:10px;
+	}
+	#shaon h4{
+	padding-left:10px;
+	font-size:14px;
+	color:#ffffff;
+	}
+	#images{
+	
+	
+	float:left;
+	}
+	#generation{
+	
+	float:left;
+	}
+	#fb h4{
+	
+	float:left;
+	font-size:16px;
+	color:#ffffff;
+	
+	}
+	#fb h2 a{
+	
+	text-decoration:none;
+	font-size:15px;
+	color:#ffffff;
+	}
+	
+	#float h2{
+	
+	float:right;
+	}
+	#fb h3 a{
+	
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#float{
+	
+	float:left;
+	}
+	#fb img{
+	float:left;
+	
+	}
+	#fb h1{
+	
+	font-size:18px;
+	color:#ffffff;
+	}
+	#fb{
+	margin-top:40px;
+	margin-right:220px;
+	width:110px;
+	height:230px;
+	
+	float:right;
+	
+	
+	}
+	#images h4{
+	
+	float:left;
+	}
+	#about{
+	
+	height:183px;
+	width:345px;
+	
+	float:left;
+	margin-top:30px;
+	
+	}
+	#about p{
+	text-align:justify;
+	color:#ffffff;
+	}
+	#about h1{
+	color:#ffffff;
+	}
+	#shaon img{
+	
+	float:left;
+	}
+	#shaon h1{
+	
+	color:#ffffff;
+	}
+	#shaon{
+	
+	float:left;
+	height:265px;
+	width:290px;
+	background:#242424;
+	margin-top:20px;
+	margin-left:30px;
+	
+	}
+	#content{
+	
+	
+	margin:0;
+	height:360px;
+	width:100%;
+	
+	}
+	#area-3{
+	
+	
+	background:#242424;
+	width:100%;
+	height:347px;
+	}
+	#simon{width:922px;
+	height:490px;
+	
+	float:left;
+	margin-left:145px;}
+			#area{
+			
+			
+			height:280px;
+			width:910px;
+			margin-top:60px;
+			margin-left:145px;
+			
+			}
+			
+			
+			
+			}
+			@media only screen and(min-width:840px) and(max-width:1000px){
+			
+			
+			#wrapper{
+	
+	
+	height:1430px;
+	width:830px;
+	background:#F2F2F3;
+	margin:0 auto;
+	}
+	#footer{
+	font-size:20px;
+	color:#242424;
+	text-align:center;
+	width:100%;
+	height:60px;
+	
+	}
+	#header{
+	
+	margin:0;
+	height:104px;
+	width:100%;
+	background:#2F2F2F;
+	}
+	#area img{
+	padding-top:30px;
+	float:right;
+	}
+	#header h2{
+	
+
+	font-style:italic;
+	color:#E6CE49;
+	padding-left:50px;
+	}
+	#left{
+	
+	float:left;
+	}
+	#menu{
+	padding-bottom:30px;
+	padding-right:130px;
+	float:right;
+	}
+	#menu ul li{
+	float:left;
+	list-style-type:none;
+	}
+	#area h3{
+	
+	
+	
+	height:140px;
+	width:320px;
+	text-align:justify;
+	font-size:12px;
+	padding-top:80px;
+	
+	
+	}
+	#clear{
+	
+	width:100%;
+	clear:both;
+	}
+	#menu ul li a{
+	padding:10px 20px 20px 10px;
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#area h1{
+	margin-top:60px;
+	text-align:center;
+	}
+	#area h1 a{
+	text-decoration:none;
+	color:#ffffff;
+	
+	}
+	
+	#area p{
+	
+	float:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	}
+	#area h1{
+	
+	font-size:16px;
+	color:#ffffff;
+	background:#FB9744;
+	height:25px;
+	width:100px;
+	
+	}
+	#plot a{
+	
+	text-decoration:none;
+	color:#ffffff;}
+	#plot{
+	
+	margin:20px;
+	float:left;
+	}
+	#plot h3{
+	height:30px;
+	width:130px;
+	padding-top:10px;
+	color:#ffffff;
+	font-size:20px;
+	background:#FB9744;
+	}
+	#plot p{
+	
+	
+	height:20px;
+	width:250px;
+	text-align:justify;
+	}
+	#simon h2{
+	
+	font-size:20px;
+	}
+	#area-2{
+	
+	height:513px;
+	width:100%;
+	background:#D6D6D6;
+	}
+	#simon img{
+	
+	margin:10px;
+	}
+	#shaon h4{
+	padding-left:10px;
+	font-size:14px;
+	color:#ffffff;
+	}
+	#images{
+	
+	
+	float:left;
+	}
+	#generation{
+	
+	float:left;
+	}
+	#fb h4{
+	
+	float:left;
+	font-size:16px;
+	color:#ffffff;
+	
+	}
+	#fb h2 a{
+	
+	text-decoration:none;
+	font-size:15px;
+	color:#ffffff;
+	}
+	
+	#float h2{
+	
+	float:right;
+	}
+	#fb h3 a{
+	
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#float{
+	
+	float:left;
+	}
+	#fb img{
+	float:left;
+	
+	}
+	#fb h1{
+	
+	font-size:18px;
+	color:#ffffff;
+	}
+	#fb{
+	margin-top:40px;
+	margin-right:220px;
+	width:110px;
+	height:230px;
+	
+	float:right;
+	
+	
+	}
+	#images h4{
+	
+	float:left;
+	}
+	#about{
+	
+	height:183px;
+	width:345px;
+	
+	float:left;
+	margin-top:30px;
+	
+	}
+	#about p{
+	text-align:justify;
+	color:#ffffff;
+	}
+	#about h1{
+	color:#ffffff;
+	}
+	#shaon img{
+	
+	float:left;
+	}
+	#shaon h1{
+	
+	color:#ffffff;
+	}
+	#shaon{
+	
+	float:left;
+	height:265px;
+	width:290px;
+	background:#242424;
+	margin-top:20px;
+	margin-left:30px;
+	
+	}
+	#content{
+	
+	
+	margin:0;
+	height:360px;
+	width:100%;
+	
+	}
+	#area-3{
+	
+	
+	background:#242424;
+	width:100%;
+	height:347px;
+	}
+	#simon{width:922px;
+	height:490px;
+	
+	float:left;
+	margin-left:145px;}
+			#area{
+			
+			
+			height:280px;
+			width:910px;
+			margin-top:60px;
+			margin-left:145px;
+			
+			}
+			}
+			@media only screen and(max-width:767px){
+			
+			
+			#wrapper{
+	
+	
+	height:1430px;
+	width:760px;
+	background:#F2F2F3;
+	margin:0 auto;
+	}
+	#footer{
+	font-size:20px;
+	color:#242424;
+	text-align:center;
+	width:100%;
+	height:60px;
+	
+	}
+	#header{
+	
+	margin:0;
+	height:104px;
+	width:100%;
+	background:#2F2F2F;
+	}
+	#area img{
+	padding-top:30px;
+	float:right;
+	}
+	#header h2{
+	
+
+	font-style:italic;
+	color:#E6CE49;
+	padding-left:50px;
+	}
+	#left{
+	
+	float:left;
+	}
+	#menu{
+	padding-bottom:30px;
+	padding-right:130px;
+	float:right;
+	}
+	#menu ul li{
+	float:left;
+	list-style-type:none;
+	}
+	#area h3{
+	
+	
+	
+	height:140px;
+	width:320px;
+	text-align:justify;
+	font-size:12px;
+	padding-top:80px;
+	
+	
+	}
+	#clear{
+	
+	width:100%;
+	clear:both;
+	}
+	#menu ul li a{
+	padding:10px 20px 20px 10px;
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#area h1{
+	margin-top:60px;
+	text-align:center;
+	}
+	#area h1 a{
+	text-decoration:none;
+	color:#ffffff;
+	
+	}
+	
+	#area p{
+	
+	float:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:20px;
+	}
+	#area h1{
+	
+	font-size:16px;
+	color:#ffffff;
+	background:#FB9744;
+	height:25px;
+	width:100px;
+	
+	}
+	#plot a{
+	
+	text-decoration:none;
+	color:#ffffff;}
+	#plot{
+	
+	margin:20px;
+	float:left;
+	}
+	#plot h3{
+	height:30px;
+	width:130px;
+	padding-top:10px;
+	color:#ffffff;
+	font-size:20px;
+	background:#FB9744;
+	}
+	#plot p{
+	
+	
+	height:20px;
+	width:250px;
+	text-align:justify;
+	}
+	#simon h2{
+	
+	font-size:20px;
+	}
+	#area-2{
+	
+	height:513px;
+	width:100%;
+	background:#D6D6D6;
+	}
+	#simon img{
+	
+	margin:10px;
+	}
+	#shaon h4{
+	padding-left:10px;
+	font-size:14px;
+	color:#ffffff;
+	}
+	#images{
+	
+	
+	float:left;
+	}
+	#generation{
+	
+	float:left;
+	}
+	#fb h4{
+	
+	float:left;
+	font-size:16px;
+	color:#ffffff;
+	
+	}
+	#fb h2 a{
+	
+	text-decoration:none;
+	font-size:15px;
+	color:#ffffff;
+	}
+	
+	#float h2{
+	
+	float:right;
+	}
+	#fb h3 a{
+	
+	text-decoration:none;
+	color:#ffffff;
+	}
+	#float{
+	
+	float:left;
+	}
+	#fb img{
+	float:left;
+	
+	}
+	#fb h1{
+	
+	font-size:18px;
+	color:#ffffff;
+	}
+	#fb{
+	margin-top:40px;
+	margin-right:220px;
+	width:110px;
+	height:230px;
+	
+	float:right;
+	
+	
+	}
+	#images h4{
+	
+	float:left;
+	}
+	#about{
+	
+	height:183px;
+	width:345px;
+	
+	float:left;
+	margin-top:30px;
+	
+	}
+	#about p{
+	text-align:justify;
+	color:#ffffff;
+	}
+	#about h1{
+	color:#ffffff;
+	}
+	#shaon img{
+	
+	float:left;
+	}
+	#shaon h1{
+	
+	color:#ffffff;
+	}
+	#shaon{
+	
+	float:left;
+	height:265px;
+	width:290px;
+	background:#242424;
+	margin-top:20px;
+	margin-left:30px;
+	
+	}
+	#content{
+	
+	
+	margin:0;
+	height:360px;
+	width:100%;
+	
+	}
+	#area-3{
+	
+	
+	background:#242424;
+	width:100%;
+	height:347px;
+	}
+	#simon{width:922px;
+	height:490px;
+	
+	float:left;
+	margin-left:145px;}
+			#area{
+			
+			
+			height:280px;
+			width:910px;
+			margin-top:60px;
+			margin-left:145px;
+			
+			}
+			}
